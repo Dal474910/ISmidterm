@@ -11,6 +11,6 @@ h3 {
      color: blueviolet;
      text-align: left;
 }
-body.color {
-    background-color: rgb(193, 244, 244);
+body {
+    background-color: rgb(246, 222, 235);
 }

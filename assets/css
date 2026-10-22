@@ -1,0 +1,13 @@
+
+.dm-sans-<uniquifier> {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h3 {
+     font-family: "DM Sans", sans-serif;
+     color: blueviolet;
+     text-align: left;
+}
